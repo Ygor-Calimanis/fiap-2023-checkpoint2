@@ -9,7 +9,7 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.com.fiap</groupId>
-    <artifactId>checkpoint1</artifactId>
+    <artifactId>checkpoint2</artifactId>
     <version>1.0</version>
     <name>checkpoint2</name>
     <description>Checkpoint 2</description>
